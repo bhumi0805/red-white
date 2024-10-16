@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: red;
+    padding: 20px;
+    color: white;
+    font-family: Manrope ,sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    color: white;
+    font-family: Manrope ,sans-serif;
+}
+nav button{
+    color: white;
+    background-color: transparent;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    border: solid 1px white;
+}
+.link-call{
+    color: white;
+    font-family: Manrope ,sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.link-call{
+    max-width: 700px;
+}
